@@ -1,7 +1,7 @@
 body 
 {
     background-color: lightblue;
-	background-image: url(), url();
+	background-image: url(https://i.pinimg.com/originals/62/50/3f/62503f2d7b97726ac244af6283b808c9.jpg), url();
 	background-repeat: no-repeat, repeat;
 	background-position: bottom right, top left;
 	margin-left: 100px;
